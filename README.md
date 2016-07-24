@@ -1,6 +1,6 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *New York Times*
 
-**Name of your app** is an android app that allows a user to search for articles on web using simple filters. The app utilizes [New York Times Search API](http://developer.nytimes.com/docs/read/article_search_api_v2).
+**New York Times** is an android app that allows a user to search for articles on web using simple filters. The app utilizes [New York Times Search API](http://developer.nytimes.com/docs/read/article_search_api_v2).
 
 Time spent: **X** hours spent in total
 
@@ -8,8 +8,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can **search for news article** by specifying a query and launching a search. Search displays a grid of image results from the New York Times Search API.
-* [ ] User can click on "settings" which allows selection of **advanced search options** to filter results
+* [*] User can **search for news article** by specifying a query and launching a search. Search displays a grid of image results from the New York Times Search API.
+* [*] User can click on "settings" which allows selection of **advanced search options** to filter results
 * [ ] User can configure advanced search filters such as:
   * [ ] Begin Date (using a date picker)
   * [ ] News desk values (Arts, Fashion & Style, Sports)
